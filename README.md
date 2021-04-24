@@ -1,0 +1,2 @@
+# Syn
+Clean Editor Text
